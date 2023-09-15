@@ -1,2 +1,2 @@
-# Udemy_Lecture_Day2
-유데미 2일차(딜리셔스게임즈)
+# Udemy_Lecture_Day3
+유데미 3일차(딜리셔스게임즈)
